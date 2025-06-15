@@ -68,5 +68,3 @@ Relacja: `Ksiazki.AutorId -> Autorzy.Id`
 
 ## Autor
 Imię i nazwisko: Adrian Boroń
-Numer Indeksu: 131408
-
