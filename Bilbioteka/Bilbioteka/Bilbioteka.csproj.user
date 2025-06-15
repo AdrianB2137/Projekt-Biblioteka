@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularze\FormularzAutorzy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularze\FormularzDodajAutora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularze\FormularzDodajKsiazke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularze\FormularzEdytujKsiazke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularze\FormularzGlowny.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

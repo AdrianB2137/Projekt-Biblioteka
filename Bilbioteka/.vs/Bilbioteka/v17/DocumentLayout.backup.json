@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzglowny.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzglowny.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzedytujksiazke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzedytujksiazke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzdodajksiazke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzdodajksiazke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzdodajautora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzdodajautora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzautorzy.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzautorzy.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzautorzy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzautorzy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|C:\\Users\\Adrian\\Desktop\\Bilbioteka\\bilbioteka\\formularze\\formularzdodajautora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzdodajautora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzedytujksiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzedytujksiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|C:\\Users\\Adrian\\Desktop\\Bilbioteka\\bilbioteka\\formularze\\formularzglowny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzglowny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzglowny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzglowny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzautorzy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzautorzy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzdodajksiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzdodajksiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\modele\\ksiazka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\modele\\ksiazka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\modele\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\modele\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\dane\\bibliotekacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\dane\\bibliotekacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzedytujksiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzedytujksiazke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|c:\\users\\adrian\\desktop\\bilbioteka\\bilbioteka\\formularze\\formularzdodajautora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECB921A-08A5-4681-A594-3C06E1343B50}|Bilbioteka\\Bilbioteka.csproj|solutionrelative:bilbioteka\\formularze\\formularzdodajautora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularzDodajAutora.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajAutora.Designer.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzDodajAutora.Designer.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajAutora.Designer.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzDodajAutora.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:51:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularzDodajKsiazke.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajKsiazke.Designer.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzDodajKsiazke.Designer.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajKsiazke.Designer.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzDodajKsiazke.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:58:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularzEdytujKsiazke.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzEdytujKsiazke.Designer.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzEdytujKsiazke.Designer.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzEdytujKsiazke.Designer.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzEdytujKsiazke.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:12:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularzGlowny.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzGlowny.Designer.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzGlowny.Designer.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzGlowny.Designer.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzGlowny.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:55:23.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularzAutorzy.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzAutorzy.Designer.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzAutorzy.Designer.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzAutorzy.Designer.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzAutorzy.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:44:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormularzAutorzy.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzAutorzy.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzAutorzy.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzAutorzy.cs [Projekt]",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzAutorzy.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:43:24.672Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormularzDodajAutora.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajAutora.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzDodajAutora.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajAutora.cs [Projekt]",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzDodajAutora.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:48:48.889Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormularzDodajKsiazke.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs [Projekt]",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:37:54.78Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormularzEdytujKsiazke.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs [Projekt]",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:02:33.38Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormularzGlowny.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzGlowny.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzGlowny.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzGlowny.cs [Projekt]",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzGlowny.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:15:12.722Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormularzGlowny.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzGlowny.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzGlowny.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzGlowny.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzGlowny.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:18:54.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormularzAutorzy.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzAutorzy.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzAutorzy.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzAutorzy.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzAutorzy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:43:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Program.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Program.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Program.cs",
+              "RelativeToolTip": "Bilbioteka\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:01:25.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\appsettings.json",
+              "RelativeDocumentMoniker": "Bilbioteka\\appsettings.json",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\appsettings.json",
+              "RelativeToolTip": "Bilbioteka\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T10:33:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ksiazka.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Modele\\Ksiazka.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Modele\\Ksiazka.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Modele\\Ksiazka.cs",
+              "RelativeToolTip": "Bilbioteka\\Modele\\Ksiazka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:33:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BibliotekaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Dane\\BibliotekaContext.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Dane\\BibliotekaContext.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Dane\\BibliotekaContext.cs",
+              "RelativeToolTip": "Bilbioteka\\Dane\\BibliotekaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:06:39.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormularzEdytujKsiazke.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzEdytujKsiazke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:10:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormularzDodajKsiazke.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzDodajKsiazke.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:00:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormularzDodajAutora.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajAutora.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Formularze\\FormularzDodajAutora.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Formularze\\FormularzDodajAutora.cs",
+              "RelativeToolTip": "Bilbioteka\\Formularze\\FormularzDodajAutora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:49:35.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Modele\\Autor.cs",
+              "RelativeDocumentMoniker": "Bilbioteka\\Modele\\Autor.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Bilbioteka\\Bilbioteka\\Modele\\Autor.cs",
+              "RelativeToolTip": "Bilbioteka\\Modele\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:33:35.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
